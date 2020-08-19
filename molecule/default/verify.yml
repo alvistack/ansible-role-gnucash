@@ -18,7 +18,7 @@
   remote_user: root
   become: true
   tasks:
-    - name: gnucash-cli --version
-      command: gnucash-cli --version
+    - name: gnucash --version
+      command: gnucash --version
       register: result
       changed_when: result is not succeeded
