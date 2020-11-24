@@ -1,6 +1,6 @@
 # Ansible Role for GnuCash
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-gnucash.svg)](https://travis-ci.com/alvistack/ansible-role-gnucash)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gnucash/master)](https://gitlab.com/alvistack/ansible-role-gnucash/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.gnucash-blue.svg)](https://galaxy.ansible.com/alvistack/gnucash)
