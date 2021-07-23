@@ -1,13 +1,9 @@
 # Ansible Role for GnuCash
 
-[![Gitlab pipeline
-status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gnucash/master)](https://gitlab.com/alvistack/ansible-role-gnucash/-/pipelines)
-[![GitHub
-release](https://img.shields.io/github/release/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/releases)
-[![GitHub
-license](https://img.shields.io/github/license/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/blob/master/LICENSE)
-[![Ansible
-Role](https://img.shields.io/badge/galaxy-alvistack.gnucash-blue.svg)](https://galaxy.ansible.com/alvistack/gnucash)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gnucash/master)](https://gitlab.com/alvistack/ansible-role-gnucash/-/pipelines)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/releases)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.gnucash-blue.svg)](https://galaxy.ansible.com/alvistack/gnucash)
 
 Ansible Role for GnuCash Installation.
 
@@ -43,8 +39,7 @@ This role could simply deploy to `localhost` as below:
 ## License
 
   - Code released under [Apache License 2.0](LICENSE)
-  - Docs released under [CC BY
-    4.0](http://creativecommons.org/licenses/by/4.0/)
+  - Docs released under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 ## Author Information
 
