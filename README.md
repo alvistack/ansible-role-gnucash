@@ -1,5 +1,7 @@
 # Ansible Role for GnuCash
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gnucash/master)](https://gitlab.com/alvistack/ansible-role-gnucash/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/blob/master/LICENSE)
