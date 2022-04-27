@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: gnucash
-      tags: gnucash
+        name: alvistack.gnucash
+      tags: alvistack.gnucash
