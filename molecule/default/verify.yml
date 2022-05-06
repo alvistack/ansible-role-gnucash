@@ -18,7 +18,7 @@
   remote_user: root
   become: true
   tasks:
-    - name: gnucash --version
-      ansible.builtin.command: gnucash --version
+    - name: which gnucash
+      ansible.builtin.command: which gnucash
       register: result
       changed_when: result is not succeeded
