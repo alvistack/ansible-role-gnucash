@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: which gnucash
-      ansible.builtin.command: which gnucash
+      ansible.builtin.command:
+        cmd: which gnucash
       register: result
       changed_when: result is not succeeded
