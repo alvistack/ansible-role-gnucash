@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: which gnucash
+    - name: flatpak info org.gnucash.GnuCash
       ansible.builtin.command:
-        cmd: which gnucash
+        cmd: flatpak info org.gnucash.GnuCash
       register: result
       changed_when: result is not succeeded
